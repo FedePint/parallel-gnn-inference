@@ -1,0 +1,20 @@
+# Object files
+*.o
+
+# Executables
+gnn_inference
+node_parallelism
+OGB_extraction/bin_conversion
+
+# Datasets and generated graphs
+data/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*:Zone.Identifier
